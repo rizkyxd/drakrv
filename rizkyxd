@@ -156,7 +156,7 @@ def menu():
 	print
 	print (S + '[' + P + '☞1' + S + ']' + S + ' Fast Cloning New Update')
 	print (S + '[' + P + '☞2' + S + ']' + S + ' Update Revolution Tool')
-	print (S + '[' + P + '☞3' + S + ']' + S + ' Revolution WhatsApp Group')
+	print (S + '[' + P + '☞3' + S + ']' + S + ' Facebook Ceo Revolution.ID')
 	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out')
 	print (S + '[' + Y + '☞0' + S + ']' + R + ' Exit')
 	print
@@ -174,7 +174,7 @@ def mb():
 		pak()
 	elif bm =='2':
 	    os.system('rm -rf $HOME/lovehacker')
-	    os.system('cd $HOME && git clone https://github.com/lovehackerAsif/BlackMafia/')
+	    os.system('cd $HOME && git clone git clone https://github.com/rizkyxd/revolutionid/')
 	    cb()
 	    print (logo)
 	    psb('☆10%')
@@ -196,9 +196,9 @@ def mb():
 	    psb('Subscrib My Youtube Chanell Rizky Maulana S✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
-	    os.system('cd $HOME/BlackMafia && python2 BlackMafia.py')
+	    os.system('cd $HOME/ikigntng && python2 dkfb')
 	elif bm =='3':
-	    os.system('xdg-open https://chat.whatsapp.com/FmuKakzK8oV3Rp6gpf9Xqr')
+	    os.system('xdg-open https://www.facebook.com/C3O.REVOLUTION.ID')
 	    menu()
 	elif bm =='4':
 		psb('Token Has Been Removed')
