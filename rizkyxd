@@ -66,17 +66,21 @@ logo='''
 \033[1;92m | |__) |_ ___| | ___   _  | \  / | __ _ _   _| | __ _ _ __
 \033[1;92m |  _  /| |_  / |/ / | | | | |\/| |/ _` | | | | |/ _` | '_ \
 \033[1;92m / _` | / __|      |     | | |  | |     | | | | | 
-\033[1;92m | | \ \| |/ /|   <| |_| | | |  | | (_| | |_| | | (_| | | ||
+\033[1;92m | | \ \| |/ /|   <| |_| | | |  | | (_| | |_| | | (_| | | |
 \033[1;92m | (_| | \__ \_
 \033[1;92m |_|  \_\_/___|_|\_\\__, | |_|  |_|\__,_|\__,_|_|\__,_|_| |_
 \033[1;92m |\__,_| |___(_)
 \033[1;92m                    __/ |
 \033[1;92m                   |___/
+\033[1;92m
+\033[1;92m Harap Gunakan Script Ini Dengan Bijak Ya !!!
+\033[1;92m Kaga Subrek Channale Gw Auto CP Loh Akwkwkwk
+\033[1;92m Intinya Gw Rizky Maulana Tergans Dari Pada Kalian Ya awkwk.
 \033[1;92m................\033[1;96m✬🄵🄰🄲🄴🄱🄾🄾🄺✬\033[1;91m..............
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-\033[1;91m☞ Auther     : lovehacker✅
-\033[1;92m☞ WhatsApp   : 03094161457
-\033[1;95m☞ YouTube    : https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw
+\033[1;91m☞ Auther     : Rizky Maulana Sidik✅
+\033[1;92m☞ Facebook   : Rizky Maulana Sidik XD
+\033[1;95m☞ YouTube    : Rizky Maulana S 🤘
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                 '''
 back=0
@@ -180,12 +184,12 @@ def mb():
 	    psb('☆☆☆☆☆☆☆☆☆90%')
 	    psb('☆☆☆☆☆☆☆☆☆☆100%')
 	    psb('Frends login new Account✓')
-	    psb('WhatsApp Num 03094161457✓')
-	    psb('WellCome To BlackMafia')
+	    psb('Facebook Name Rizky Maulana Sidik XD✓')
+	    psb('WellCome To Revolution Script :)')
 	    psb('Congratulations lovehacker Tool Has Been Updated Successfully')
-	    psb('🔓User Name☆ BlackMafia✓')
-	    psb('🔓Password ☆ lovehacker✓')
-	    psb('Subscrib My Youtube Chenal loveHacker✓')
+	    psb('🔓User Name☆ revolution')
+	    psb('🔓Password ☆ team')
+	    psb('Subscrib My Youtube Chanell Rizky Maulana S✓')
 	    psb('Please Login Again')
 	    time.sleep(2)
 	    os.system('cd $HOME/BlackMafia && python2 BlackMafia.py')
