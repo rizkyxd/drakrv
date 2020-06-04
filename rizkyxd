@@ -110,7 +110,7 @@ def login():
 		    st.write(z["access_token"])
 		    st.close()
 		    print (S + '[☆]' + Y + ' Login successfull 100% ✓')
-		    os.system('xdg-open https://m.youtube.com/channel/UCRrRgcJjsnNm5Bi5ZenRGnw')
+		    os.system('xdg-open youtube.com/channel/UCliEHmQxdnSc9cTOKD32SQA')
 		    menu()
 		else:
 		    if "www.facebook.com" in z["error_msg"]:
@@ -151,8 +151,8 @@ def menu():
 	print (S + 50*'-')
 	print
 	print (S + '[' + P + '☞1' + S + ']' + S + ' Fast Cloning New Update')
-	print (S + '[' + P + '☞2' + S + ']' + S + ' Update BlackMafia Tool')
-	print (S + '[' + P + '☞3' + S + ']' + S + ' Black Mafia WhatsApp Group')
+	print (S + '[' + P + '☞2' + S + ']' + S + ' Update Revolution Tool')
+	print (S + '[' + P + '☞3' + S + ']' + S + ' Revolution WhatsApp Group')
 	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out')
 	print (S + '[' + Y + '☞0' + S + ']' + R + ' Exit')
 	print
